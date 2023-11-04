@@ -35,3 +35,29 @@ body {
     color: #333;
 }
 
+.marketplace-links {
+    margin: 20px 0;
+}
+
+.marketplace-links p {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 10px;
+}
+
+.marketplace-links a {
+    display: inline-block;
+    background-color: #1f7e12;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 0 10px;
+    transition: background-color 0.3s;
+}
+
+.marketplace-links a:hover {
+    background-color: #0056b3;
+}
